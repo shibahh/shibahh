@@ -1,4 +1,4 @@
-# hi, i'm shiba
+# >> hi, i'm shiba
 
-i'm a game developer from poland, i mostly work in lua and luau on roblox.
-if you'd like to know more about me or contact me, check out my website.
+ >> i'm a game developer from poland, i mostly work in lua and luau on roblox.
+ >> if you'd like to know more about me or contact me, check out my website.
